@@ -1,6 +1,6 @@
 var carta1 = {
   nome: "Bulbasauro",
-  imagem: "https://www.pngfind.com/pngs/m/316-3169868_-img-bulbasaur-jpg-hd-png-download.png",
+  imagem: "https://www.teahub.io/photos/full/280-2803179_pokemon-wallpaper-of-bulbasaur-pokemon-bulbasaur.jpg",
   atributos: {
     Ataque: 7,
     Defesa: 8,
