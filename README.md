@@ -6,7 +6,7 @@
 
 Super Trunfo é um jogo de batalha de cartas criado na ImersãoDev promovida pela Alura.
 
-### Endereço do projeto: [https://super-trunfo-lucarauj.netlify.app/]
+### [CLIQUE AQUI E VEJA O PROJETO](https://super-trunfo-lucarauj.netlify.app/)
 
 ## Linguagens e Tecnologia utilizadas
 
